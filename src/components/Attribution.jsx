@@ -12,12 +12,12 @@ const Attribution = () => {
       </a>
       . Coded by{" "}
       <a
-        href="https://github.com/MelvinAguilar"
+        href="https://github.com/pijeismart"
         target="_blank"
         rel="noopener noreferrer"
         className="font-bold text-custom-blue hover:underline"
       >
-        Melvin Aguilar
+        Pijei Smart
       </a>
       .
     </p>

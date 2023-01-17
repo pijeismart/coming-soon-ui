@@ -102,7 +102,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@melvinaguilar](https://www.frontendmentor.io/profile/melvinaguilar)
+- Frontend Mentor - [@pijeismart](https://github.com/pijeismart)
 
 ## Acknowledgments
 
