@@ -42,8 +42,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Ping single column coming soon (React + TailwindCSS + Dark/Light mode) | Frontend Mentor](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-XddXG4uLv2)
-- Live Site URL: [https://ping-single-column-coming-soon-page-hdez.vercel.app/](https://ping-single-column-coming-soon-page-hdez.vercel.app/)
+- Live Site URL: [https://coming-soon-ui.vercel.app/](https://coming-soon-ui.vercel.app/)
 
 <br>
 
